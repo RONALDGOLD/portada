@@ -58,6 +58,7 @@ h2{
     text-align: center;
 }
 .foo a{
+    margin-top: 10px;
     font-size: 20px;
 }
 .input-group {
