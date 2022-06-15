@@ -1,7 +1,7 @@
 body{
     font-family: sans-serif;
     margin: 0;
-    background: rgb(51, 50, 50);
+    background: rgb(243, 238, 238);
 }
 
 header{
@@ -57,10 +57,17 @@ h2{
     width: 300px;
     text-align: center;
 }
-.foo a{
+.foo li{
+    display: inline-block;
     font-size: 20px;
 }
 .input-group {
     width: 25%;
     
+}
+.ini{
+    color: blanchedalmond;
+}
+.peli{
+    color: blanchedalmond;
 }
