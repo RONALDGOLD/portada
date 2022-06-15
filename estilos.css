@@ -57,8 +57,13 @@ h2{
     width: 300px;
     text-align: center;
 }
+<<<<<<< HEAD
 .foo li{
     display: inline-block;
+=======
+.foo a{
+    margin-top: 10px;
+>>>>>>> 5c5d7849458af6a8178f5ed15d7aeedd9599a1dc
     font-size: 20px;
 }
 .input-group {
